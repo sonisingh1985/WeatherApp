@@ -24,6 +24,7 @@ else
             console.log('location',location)
             console.log('data',forecastdata)
         })
+        
     })
     
     
